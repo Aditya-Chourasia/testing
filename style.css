@@ -1,0 +1,44 @@
+body {padding: 0; margin: 0;}
+
+/* Title Section */
+#title {padding: 3% 5%;}
+
+.navbar{background-color: white;}
+
+.nav-brand {font-size: 2rem; font-weight: 400;}
+
+.nav-row {align-items: center;}
+
+.nav-container {display: block !important;}
+
+.nav-mid-text {justify-content: center;}
+
+.nav-btn-right {text-align: right;}
+
+.title-row {width: 100%; padding-top: 100px;}
+
+.song-img {width: 50%; float: right;}
+
+.title-heading {font-size: 5rem; font-weight: 900;}
+
+.title-paragraph {font-size: 2rem; font-weight: 300;}
+
+/* Title Section ends */
+
+/* about Section */
+#About {text-align: center; padding: 10% 5%}
+
+.about-para {width: 50%; line-height: 2; font-size: 1.5rem; margin: auto;}
+
+/* request Section */
+#Req-a-s {text-align: center; padding: 10% 5%}
+
+.req-a-s-para {width: 50%; line-height: 2; font-size: 1.5rem; margin: auto; font-weight: lighter;}
+
+/* request Section */
+#Contact {padding: 10% 5%}
+
+#Contact h1 {text-align: center;}
+
+/* footer */
+.footer {padding: 20px 5px; overflow: hidden;}
